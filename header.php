@@ -19,10 +19,10 @@
                   </div>
                 </div>
                 <div class="col-md-8">
-                  <div class="nav__top-menu">
+                  <div class="nav__top-menu">                 
                     <?php 
                       wp_nav_menu(array('menu' => 'main-menu'));
-                    ?>
+                    ?>                    
                   </div><!-- /nav__top-menu -->          
                 </div><!-- /col-md-8 -->        
               </div><!-- /col-md-12 --> 
